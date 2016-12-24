@@ -14,6 +14,7 @@
         <project.scala.version>2.12.1</project.scala.version>
         <java.version>1.8</java.version>
         <scala.binary.version>2.12.1</scala.binary.version>
+        <akka.version>2.4.14</akka.version>
     </properties>
     <build>
         <plugins>
