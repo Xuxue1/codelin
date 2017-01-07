@@ -11,7 +11,8 @@
         <module>common</module>
         <module>file-manager</module>
         <module>resource-manager</module>
-        <module>node</module>
+        <module>node-manager</module>
+        <module>application</module>
     </modules>
     <properties>
         <project.scala.version>2.12.1</project.scala.version>
